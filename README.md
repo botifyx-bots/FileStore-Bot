@@ -75,7 +75,7 @@
 
 **File Store Pro** is a production-grade Telegram file-storage bot built with **Pyrofork** and **MongoDB**. It stores files in private DB channels and delivers them through encoded, expiring links — complete with force-subscription gates, a premium credit system, quality-grouped batch links, and a full channel post manager.
 
-> Built and maintained by [@ITS_shun_x](https://t.me/ITS_shun_x) · Powered by [@BotifyX_Pro_Botz](https://t.me/BotifyX_Pro_Botz)
+> Built and maintained by [㊝ ˢᵘⁿᵍメJɪɴᴡᴏᴏ !!](https://t.me/sungjinwoo_ex) · Powered by [Bᴏᴛɪғʏx-Bᴏᴛ](https://t.me/BotifyX_Botz)
 
 ---
 
@@ -422,8 +422,8 @@ Use the included `Procfile` / `render.yaml`. Set all config values as environmen
   </defs>
   <rect width="760" height="60" rx="10" fill="url(#footerGrad)" stroke="#3d3d3d" stroke-width="1"/>
   <rect x="0" y="0" width="760" height="3" rx="2" fill="#cc2222"/>
-  <text x="380" y="26" font-family="monospace" font-size="12" fill="#888888" text-anchor="middle">Powered By  BotifyX Pro  ·  Built with Pyrofork + MongoDB</text>
-  <text x="380" y="46" font-family="monospace" font-size="11" fill="#cc2222" text-anchor="middle">@BotifyX_Pro_Botz  ·  Dev: @ITS_shun_x</text>
+  <text x="380" y="26" font-family="monospace" font-size="12" fill="#888888" text-anchor="middle">Powered By  [BotifyX Pro](https://t.me/botifyx_botz)  ·  Built with Pyrofork + MongoDB</text>
+  <text x="380" y="46" font-family="monospace" font-size="11" fill="#cc2222" text-anchor="middle"> ·  Dev: [㊝ ˢᵘⁿᵍメJɪɴᴡᴏᴏ !!](https://t.me/sungjinwoo_ex)</text>
 </svg>
 
 <br/>
