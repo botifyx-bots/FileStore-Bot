@@ -9,17 +9,17 @@ OWNER_ID = 7815384262
 MSG_EFFECT = 5046509860389126442
 
 SHORT_URL = "shrinkme.io" # shortner url 
-SHORT_API = "e75f29485ddb045e6887d284f762f3daeb84f869"
+SHORT_API = ""
 SHORT_TUT = "https://t.me/ANIME_X_FLEX/19"
 
 # Bot Configuration
 SESSION = "KdramaVoid"
 TOKEN = "8987193253:AAGoIdQQyConZL7Kl2fb3iZb4zkpmqEqJWY"
-API_ID = "38102569"
-API_HASH = "19b252f74e4584256515f52e795f431f"
+API_ID = "3"
+API_HASH = "1"
 WORKERS = 5
 
-DB_URI = "mongodb+srv://ANI_OTAKU:ANI_OTAKU@cluster0.t3frstc.mongodb.net/?appName=Cluster0"
+DB_URI = ""
 DB_NAME = "KdramaVoidBot"
 
 FSUBS = [[-1004332291461, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
